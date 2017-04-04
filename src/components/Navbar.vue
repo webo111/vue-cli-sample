@@ -7,7 +7,7 @@
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
             <li class="active"><router-link to="/home">首页</router-link></li>
-            <li><router-link to="/time-entries">计划列表</router-link></li>
+            <li class="timeEntries"><router-link to="/time-entries">计划列表</router-link></li>
             <li><router-link to="/about">关于</router-link></li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
